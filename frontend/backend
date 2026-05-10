@@ -1,0 +1,6 @@
+# NF-e-control
+CONTROLE E NOTAS FISCAIS EMITIDAS -MENSAL
+mkdir nfe-saas
+cd nfe-saas
+git init
+git remote add origin https://github.com/SEU_USUARIO/nfe-saas.git
